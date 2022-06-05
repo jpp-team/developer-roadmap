@@ -20,10 +20,15 @@ ditambah juga bagaimana cara debugging dan googling
 - [Object (Javascript OOP) (FreecodeCamp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming)
 - [functional Programming (FreecodeCamp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
 - [Basic Data Structure (FreecodeCamp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures)
+
 -----------------
-### Notes
+
+### Javascript Notes
+
 - [Debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging)
+
 -----------------
+
 ### Laravel
 
 ```text
@@ -56,7 +61,11 @@ tambahan cara debugging di laravel
 - FULL SIMPLE CRUD (TODO/BLOG)
 
 -----------------
-### Notes
+
+### Laravel Notes
+
 - [Full roadmap from beginner to master](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
+
 -----------------
+
 ## Week 2 (Penjurusan Laravel + Reactjs/Vanila Javascript)
