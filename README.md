@@ -29,7 +29,7 @@ ditambah juga bagaimana cara debugging dan googling
 
 -----------------
 
-### Laravel
+### [Laravel](https://laravel.com/docs/)
 
 ```text
 Focus pada laravel documentation
