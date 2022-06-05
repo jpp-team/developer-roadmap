@@ -2,7 +2,7 @@
 
 ## Week 1 (Fundamental Basics)
 
-### [Javascript](https://www.example.com)
+### [Javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 ```text
 Fokus pada dokumentasi w3school dan frecodecamp dan lainya
